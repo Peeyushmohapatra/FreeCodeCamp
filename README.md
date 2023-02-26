@@ -103,8 +103,7 @@ class MyComponent extends React.Component {
   }
 };
 
-Answer - 5 -->
-class MyApp extends React.Component {
+Answer - 5 --> (class MyApp extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
@@ -131,3 +130,5 @@ class Navbar extends React.Component {
     );
   }
 };
+
+)
