@@ -1,6 +1,6 @@
 # FreeCodeCamp
 
-Answer - 1 --> 
+Answer - 1 --> {}
 class MyComponent extends React.Component {
   constructor(props) {
     super(props);
@@ -14,9 +14,9 @@ class MyComponent extends React.Component {
     // change code above this line
     return (
       <div>
-        { /* change code below this line */ }
+      
         <h1>{name}</h1>
-        { /* change code above this line */ }
+        
       </div>
     );
   }
@@ -37,9 +37,9 @@ class MyComponent extends React.Component {
     // change code above this line
     return (
       <div>
-        { /* change code below this line */ }
+    
         <h1>{name}</h1>
-        { /* change code above this line */ }
+   
       </div>
     );
   }
