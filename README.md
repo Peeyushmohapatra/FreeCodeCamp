@@ -1,6 +1,6 @@
 # FreeCodeCamp
 
-Answer - 1 --> {}
+Answer - 1 --> 
 class MyComponent extends React.Component {
   constructor(props) {
     super(props);
